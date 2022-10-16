@@ -17,7 +17,7 @@ if getgenv().library then
     getgenv().library:Unload()
 end
 
-local library = {tabs = {}, draggable = true, flags = {}, title = "barren beta", open = false, mousestate = inputService.MouseIconEnabled, popup = nil, instances = {}, connections = {}, options = {}, notifications = {}, tabSize = 0, theme = {}, foldername = "proxima_configs", fileext = ".cfg"}
+local library = {tabs = {}, draggable = true, flags = {}, title = "ooga booga", open = false, mousestate = inputService.MouseIconEnabled, popup = nil, instances = {}, connections = {}, options = {}, notifications = {}, tabSize = 0, theme = {}, foldername = "proxima_configs", fileext = ".cfg"}
 getgenv().library = library
 
 --Locals
